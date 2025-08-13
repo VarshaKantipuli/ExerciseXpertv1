@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+spacy[transformers]
+sentence-transformers
+scikit-learn
+gradio
